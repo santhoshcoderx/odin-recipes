@@ -23,7 +23,7 @@ Odin Recipes is a small recipe collection site. The homepage lists links to indi
 - Git / GitHub for version control
 
 ## Live Demo
-- 
+- https://santhoshcoderx.github.io/odin-recipes/
 
 ## Author
 Built by Santhosh as part of The Odin Project's Foundations course.
