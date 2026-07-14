@@ -1,0 +1,24 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+h1{
+    background-color: #383838;
+    color: #fff;
+}
+.nav{
+    font-weight: 500;
+    background-color: #383838;
+}
+
+.nav-items{
+    list-style-type: decimal;
+    color: #fff;
+    padding: 20px;
+}
+
+.nav-links{
+    text-decoration: none;
+    color: #fff;
+}
